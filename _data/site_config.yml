@@ -53,7 +53,7 @@ data_fields:
 date_formats: []
 disclaimer:
   phase: ''
-  message: ''
+  message: 'Universidad de Pamplona'
   hidden: false
 email_contacts:
   questions: test@example.com
