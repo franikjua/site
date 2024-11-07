@@ -52,8 +52,8 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: 'UP - '
-  message: 'Universidad Pamplona'
+  phase: 'UP '
+  message: 'University of Pamplona - Colombia'
   hidden: false
 email_contacts:
   questions: test@example.com
