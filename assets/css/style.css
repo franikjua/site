@@ -96,9 +96,9 @@ body.contrast-high {
 button:focus {
   color: #0b0c0c !important;
   outline: 3px solid transparent !important;
-  background-color: #ffdd00 !important;
+  background-color: #ad3333 !important;
   outline-offset: 0 !important;
-  box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+  box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
   text-decoration: none !important; }
 
 .btn {
@@ -151,7 +151,7 @@ body.contrast-high .btn-download {
 .tab-pane:focus,
 .variable-selector button.accessBtn:focus {
   background-color: white !important;
-  box-shadow: 0 0 0 5px #ffdd00 !important;
+  box-shadow: 0 0 0 5px #ad3333 !important;
   outline: 2px solid #0b0c0c !important; }
 
 body.contrast-high .variable-selector button.accessBtn:focus {
@@ -167,9 +167,9 @@ body.contrast-high .variable-selector button.accessBtn:focus {
 input:focus {
   color: #0b0c0c !important;
   outline: 3px solid transparent !important;
-  background-color: #ffdd00 !important;
+  background-color: #ad3333 !important;
   outline-offset: 0 !important;
-  box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+  box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
   text-decoration: none !important; }
 
 body.contrast-high [contentEditable="true"]:focus,
@@ -182,7 +182,7 @@ input[type="radio"]:focus,
 body.contrast-high input[type="radio"]:focus,
 input[type="checkbox"]:focus,
 body.contrast-high input[type="checkbox"]:focus {
-  box-shadow: 0px 0px 0px 4px #ffdd00 !important; }
+  box-shadow: 0px 0px 0px 4px #ad3333 !important; }
 
 input[type="checkbox"]:focus,
 body.contrast-high input[type="checkbox"]:focus {
@@ -193,15 +193,15 @@ input[type="search"]:focus,
 body.contrast-high input[type="text"]:focus,
 body.contrast-high input[type="search"]:focus {
   background-color: white !important;
-  box-shadow: 0 0 0 5px #ffdd00 !important;
+  box-shadow: 0 0 0 5px #ad3333 !important;
   outline: 2px solid #0b0c0c !important; }
 
 iframe:focus {
   color: #0b0c0c !important;
   outline: 3px solid transparent !important;
-  background-color: #ffdd00 !important;
+  background-color: #ad3333 !important;
   outline-offset: 0 !important;
-  box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+  box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
   text-decoration: none !important; }
 
 body.contrast-high iframe:focus {
@@ -212,9 +212,9 @@ body.contrast-high iframe:focus {
 [tabindex]:focus {
   color: #0b0c0c !important;
   outline: 3px solid transparent !important;
-  background-color: #ffdd00 !important;
+  background-color: #ad3333 !important;
   outline-offset: 0 !important;
-  box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+  box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
   text-decoration: none !important; }
 
 body.contrast-high [tabindex]:focus {
@@ -224,7 +224,7 @@ body.contrast-high [tabindex]:focus {
 
 div[tabindex]:focus {
   background-color: white !important;
-  box-shadow: 0 0 0 5px #ffdd00 !important;
+  box-shadow: 0 0 0 5px #ad3333 !important;
   outline: 2px solid #0b0c0c !important; }
 
 body.contrast-high div[tabindex]:focus {
@@ -267,9 +267,9 @@ body.contrast-high a:visited {
 [href]:focus {
   color: #0b0c0c !important;
   outline: 3px solid transparent !important;
-  background-color: #ffdd00 !important;
+  background-color: #ad3333 !important;
   outline-offset: 0 !important;
-  box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+  box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
   text-decoration: none !important; }
 
 body.contrast-high [href]:focus {
@@ -427,7 +427,7 @@ p {
     max-width: 100%; }
   .navbar-brand:focus {
     background-color: transparent !important;
-    outline: 7px solid #ffdd00 !important; }
+    outline: 7px solid #ad3333 !important; }
 
 .header-search-bar {
   max-width: 100%;
@@ -451,7 +451,7 @@ header .navbar .navbar-nav .nav-item:first-child .nav-link {
 
 body.contrast-high .navbar-brand:focus {
   background-color: transparent !important;
-  outline: 7px solid #ffdd00 !important; }
+  outline: 7px solid #ad3333 !important; }
 
 .internet-explorer-message {
   display: none;
@@ -533,7 +533,7 @@ body.contrast-high #disclaimer .disclaimer-alert {
     border: 1.25px solid #0b0c0c; }
     #search input:focus {
       background-color: white !important;
-      box-shadow: 0 0 0 5px #ffdd00 !important;
+      box-shadow: 0 0 0 5px #ad3333 !important;
       outline: 2px solid #0b0c0c !important; }
   #search button {
     color: white;
@@ -542,7 +542,7 @@ body.contrast-high #disclaimer .disclaimer-alert {
     border-radius: 0; }
     #search button:focus {
       background-color: white !important;
-      box-shadow: 0 0 0 5px #ffdd00 !important;
+      box-shadow: 0 0 0 5px #ad3333 !important;
       outline: 2px solid #0b0c0c !important;
       color: white !important;
       background-color: #003366 !important;
@@ -1129,7 +1129,7 @@ body.contrast-high .goal-banner img {
 #main-content .goal-tiles .goal-tile a:focus {
   outline: 2px #0b0c0c solid !important; }
   #main-content .goal-tiles .goal-tile a:focus .goal-icon-image {
-    outline: 8px #ffdd00 solid !important; }
+    outline: 8px #ad3333 solid !important; }
 #main-content .goal-tiles .goal-tile img {
   width: 100%;
   border: 0;
@@ -1716,7 +1716,7 @@ body.contrast-high #main-content .nav-tabs {
   .layout-indicator.contrast-high canvas:focus,
   .layout-indicator canvas:focus {
     background-color: white !important;
-    box-shadow: 0 0 0 5px #ffdd00 !important;
+    box-shadow: 0 0 0 5px #ad3333 !important;
     outline: 2px solid #0b0c0c !important;
     background-color: transparent !important; }
 .layout-indicator .chart-title {
@@ -1746,7 +1746,7 @@ body.contrast-high #main-content .nav-tabs {
 .indicator.goal-banner .goal-tiles a:focus {
   outline: 2px #0b0c0c solid !important; }
   .indicator.goal-banner .goal-tiles a:focus .goal-icon-image {
-    outline: 8px #ffdd00 solid !important; }
+    outline: 8px #ad3333 solid !important; }
 .indicator.goal-banner .goal-tiles img {
   width: 100%;
   border: 0;
@@ -1880,7 +1880,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
     .layout-reportingstatus #main-content .frame > a:focus {
       outline: 2px #0b0c0c solid !important; }
       .layout-reportingstatus #main-content .frame > a:focus .goal-icon-image {
-        outline: 8px #ffdd00 solid !important; }
+        outline: 8px #ad3333 solid !important; }
 .layout-reportingstatus #main-content .details {
   width: calc(100% - 125px);
   float: left; }
@@ -2089,9 +2089,9 @@ body.contrast-high.layout-config-builder .config-repository-button span {
     color: #0b0c0c;
     color: #0b0c0c !important;
     outline: 3px solid transparent !important;
-    background-color: #ffdd00 !important;
+    background-color: #ad3333 !important;
     outline-offset: 0 !important;
-    box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+    box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
     text-decoration: none !important; }
   .layout-config-builder-2 .MuiButton-root:active {
     background: #001366 !important; }
@@ -2512,7 +2512,7 @@ body.contrast-high #main-content #map .disaggregation-controls {
     background: #f0ad4e;
     color: #0b0c0c; }
 .klaro .cookie-modal .cm-modal .cm-list-input:focus + label .cm-switch .slider {
-  outline: 3px solid #ffdd00;
+  outline: 3px solid #ad3333;
   box-shadow: 0 0 0 4px #0b0c0c; }
 .klaro .cookie-modal .cm-modal .cm-footer-buttons .cm-btn {
   border-radius: 0; }
@@ -2744,7 +2744,7 @@ body.contrast-high.layout-data-editor .ag-root-wrapper, body.contrast-high.layou
       color: white !important;
       background-color: #003366 !important;
       box-shadow: none !important;
-      outline: 3px solid #ffdd00 !important;
+      outline: 3px solid #ad3333 !important;
       z-index: 1; }
   #search-bar-on-page .input-group {
     max-width: 450px; }
@@ -2773,9 +2773,9 @@ body.contrast-high.layout-data-editor .ag-root-wrapper, body.contrast-high.layou
       #search-results .search-result a:focus .title {
         color: #0b0c0c !important;
         outline: 3px solid transparent !important;
-        background-color: #ffdd00 !important;
+        background-color: #ad3333 !important;
         outline-offset: 0 !important;
-        box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important;
+        box-shadow: 0 -2px #ad3333, 0 4px #0b0c0c !important;
         text-decoration: none !important; }
         #search-results .search-result a:focus .title span.match {
           background-color: transparent; }
