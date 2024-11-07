@@ -455,8 +455,8 @@ body.contrast-high .navbar-brand:focus {
 
 .internet-explorer-message {
   display: none;
-  border: 5px solid #005ea5;
-  background-color: #005ea5;
+  border: 5px solid #ad3333;
+  background-color: #ad3333;
   padding: 0; }
   .internet-explorer-message .internet-explorer-message-title {
     padding: 2px 20px 5px;
@@ -505,7 +505,7 @@ body.contrast-high footer {
       color: white; }
 
 #disclaimer .phase-tag {
-  background: #005ea5;
+  background: #ad3333;
   color: white;
   text-transform: uppercase;
   padding: 2px 5px; }
@@ -1443,7 +1443,7 @@ body.contrast-high div#serieses {
   font-size: 16px;
   color: white;
   border: 1px solid transparent;
-  background: #005ea5;
+  background: #ad3333;
   white-space: nowrap; }
 
 #serieses .proxy-pill {
