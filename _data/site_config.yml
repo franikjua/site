@@ -52,7 +52,7 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: 'UP '
+  phase: ' U P '
   message: 'University of Pamplona - Colombia'
   hidden: false
 email_contacts:
