@@ -313,7 +313,7 @@ body.contrast-high [href]:focus {
   padding-right: 0.5rem;
   padding-left: 0.5rem; }
   .navbar .navbar-nav > .nav-item > .nav-link {
-    color: #dadada;
+    color: #ad3333;
     font-size: 19px;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
@@ -330,7 +330,7 @@ body.contrast-high [href]:focus {
     .navbar .navbar-nav > .nav-item.active > .nav-link:hover {
       background: transparent; }
 .navbar .navbar-nav .dropdown-item {
-  color: #dadada;
+  color: #ad3333;
   font-size: 19px; }
 
 body.contrast-high .navbar .navbar-nav > .nav-item > .nav-link {
@@ -566,7 +566,7 @@ body.contrast-high #search button {
 .language-toggle-container {
   margin-right: 20px; }
   .language-toggle-container .dropdown-toggle, .language-toggle-container .dropdown-item {
-    color: #dadada;
+    color: #ad3333;
     font-size: 19px; }
 
 .language-toggle-globe-links {
