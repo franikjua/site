@@ -35,4 +35,11 @@ $menu-link-borderBottomColor-hover: #dadada; // Subrayado blanco cuando se pasa 
 //$menu-link-backgroundColor-mobile-active: #ad3333;
 //$menu-link-borderBottomColor-hover: #dadada;
 
+$footer-text-color: #dadada;
+$footer-text-color-highContrast: #dadada;
+$footer-link-color: $footer-text-color !default;
+$footer-link-color-highContrast: $footer-text-color-highContrast !default;
+$footer-link-color-highContrast-hover: $color-highlight-highContrast !default;
+$footer-text-backgroundColor: #ad3333;
+$footer-text-backgroundColor-highContrast: $color-dark-highContrast !default;
 
