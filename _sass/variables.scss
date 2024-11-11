@@ -24,9 +24,9 @@ $disclaimer-tag-backgroundColor: #ad3333;
 
 // Colores de los enlaces en el menú de navegación
 
-$menu-link-color: #dadada; // Color del texto en los enlaces de la barra
-$menu-link-backgroundColor: #ad3333; // Fondo de la barra de navegación
-$menu-link-borderBottomColor-hover: #dadada; // Subrayado blanco cuando se pasa el ratón
+$menu-link-color: #ad3333; // Color del texto en los enlaces de la barra
+$menu-link-backgroundColor: #dadada; // Fondo de la barra de navegación
+$menu-link-borderBottomColor-hover: #ad3333; // Subrayado blanco cuando se pasa el ratón
 
 //$menu-link-color: #dadada;
 //$menu-link-color-mobile: #dadada;
@@ -35,11 +35,5 @@ $menu-link-borderBottomColor-hover: #dadada; // Subrayado blanco cuando se pasa 
 //$menu-link-backgroundColor-mobile-active: #ad3333;
 //$menu-link-borderBottomColor-hover: #dadada;
 
-$footer-text-color: #dadada;
-$footer-text-color-highContrast: #dadada;
-$footer-link-color: $footer-text-color !default;
-$footer-link-color-highContrast: $footer-text-color-highContrast !default;
-$footer-link-color-highContrast-hover: $color-highlight-highContrast !default;
-$footer-text-backgroundColor: #ad3333;
-$footer-text-backgroundColor-highContrast: $color-dark-highContrast !default;
+
 
