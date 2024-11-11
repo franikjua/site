@@ -24,8 +24,15 @@ $disclaimer-tag-backgroundColor: #ad3333;
 
 // Colores de los enlaces en el menú de navegación
 
-$menu-link-color: dadada; // Color del texto en los enlaces de la barra
-$menu-link-backgroundColor: ad3333; // Fondo de la barra de navegación
-$menu-link-borderBottomColor-hover: dadada; // Subrayado blanco cuando se pasa el ratón
+//$menu-link-color: dadada; // Color del texto en los enlaces de la barra
+//$menu-link-backgroundColor: ad3333; // Fondo de la barra de navegación
+//$menu-link-borderBottomColor-hover: dadada; // Subrayado blanco cuando se pasa el ratón
+
+$menu-link-color: #dadada;
+$menu-link-color-mobile: #dadada;
+$menu-link-color-mobile-active: #dadada;
+$menu-link-backgroundColor-mobile: #ad3333;
+$menu-link-backgroundColor-mobile-active: #ad3333;
+$menu-link-borderBottomColor-hover: #dadada;
 
 
